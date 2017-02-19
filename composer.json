@@ -1,0 +1,8 @@
+{
+  "name": "tkuehnel/php-session",
+  "autoload": {
+    "psr-4": {
+      "TKuehnel\\": "src/"
+    }
+  }
+}
